@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://joshuathomas.me/posts/first/</loc>
+    <lastmod>2024-05-15T11:29:48+01:00</lastmod>
+  </url><url>
+    <loc>https://joshuathomas.me/</loc>
+    <lastmod>2024-05-15T11:29:48+01:00</lastmod>
+  </url><url>
+    <loc>https://joshuathomas.me/posts/</loc>
+    <lastmod>2024-05-15T11:29:48+01:00</lastmod>
+  </url><url>
+    <loc>https://joshuathomas.me/archives/</loc>
+  </url><url>
+    <loc>https://joshuathomas.me/categories/</loc>
+  </url><url>
+    <loc>https://joshuathomas.me/tags/</loc>
+  </url>
+</urlset>

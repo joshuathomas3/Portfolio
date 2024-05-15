@@ -1,0 +1,40 @@
+baseURL: https://joshuathomas.me/
+languageCode: en-gb
+title: "Joshua Thomas"
+theme: "PaperMod"
+
+params:
+  defaultTheme: dark
+  disableThemeToggle: true
+
+  profileMode:
+    enabled: true
+    title: "Joshua Thomas" # optional default will be site title
+    subtitle: "Undergraduate Computer Science Student @ University of Lincoln"
+    imageUrl: "profilepicture.jpg" # optional
+    imageTitle: "Image of Joshua Thimas" # optional
+    imageWidth: 180 # custom size
+    imageHeight: 180 # custom size
+
+  socialIcons: # optional
+    - name: "Github"
+      url: "https://github.com/joshuathomas3"
+    - name: "LinkedIn"
+      url: "https://www.linkedin.com/in/joshuathomas4/"
+    - name: "email"
+      url: mailto:contact@joshuathomas.me
+
+  ShowShareButtons: true
+  ShareButtons: ["linkedin", "x", "reddit"]
+
+  assets.favicon: "/favicon.ico"
+
+  hideFooter: true
+  ShowCodeCopyButtons: true
+
+menu:
+  main:
+    - identifier: archive
+      name: 📚 Archive
+      url: /archives/
+      weight: 10
